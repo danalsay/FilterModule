@@ -1,0 +1,4 @@
+c:\users\dan\documents\visual studio 2010\Projects\FilterModule\FilterModule\bin\Debug\FilterModule.dll
+c:\users\dan\documents\visual studio 2010\Projects\FilterModule\FilterModule\bin\Debug\FilterModule.pdb
+c:\users\dan\documents\visual studio 2010\Projects\FilterModule\FilterModule\obj\Debug\FilterModule.dll
+c:\users\dan\documents\visual studio 2010\Projects\FilterModule\FilterModule\obj\Debug\FilterModule.pdb
